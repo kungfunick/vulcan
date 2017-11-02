@@ -1,4 +1,4 @@
 # Vulcan
-## CMS Microsite Deployer and Manager
+## CMS Microsite Creator
 
 Using GO
