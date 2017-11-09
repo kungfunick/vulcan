@@ -1,4 +1,4 @@
 # Vulcan
-## CMS Framework docker bundle
+## CMS Framework docker bundler
 
 Using GO
