@@ -1,4 +1,4 @@
 # Vulcan
-## CMS Microsite Creator
+## CMS Framework docker bundle
 
 Using GO
