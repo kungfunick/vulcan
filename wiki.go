@@ -32,6 +32,6 @@ func viewHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	http.HandleFunc("/view/", viwHandler)
+	http.HandleFunc("/view/", viewHandler)
 	http.ListenAndServe(":8080", nil)
 }
