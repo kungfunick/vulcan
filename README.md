@@ -1,4 +1,5 @@
 # Vulcan
-## CMS Framework docker bundler
+## Framework for web application
 
-Using GO
+Uses Go as a base language
+
