@@ -7,7 +7,7 @@ Uses Go as a base language
 - <del>Store templates in tmpl/ and page data in data/</del>
 - Add handler to make web root redirect to /view/FrontPage
 - <del>Tidy up templates using valid HTML and adding CSS</del>
-- Add CKeditor or similar
+- Add Quill, CKeditor or similar
 - Add image upload handler
 change data storage to use database instead of flat file
 - Reformat templates and base code to use pongo2
