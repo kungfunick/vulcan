@@ -12,3 +12,4 @@ Uses Go as a base language
 change data storage to use database instead of flat file
 - Reformat templates and base code to use pongo2
 - Implement inter-Page linking by converting instances of [PageName] to <a href="/view/PageName">PageName</a> - possibly using regexp.ReplaceAllFunc to do this
+- Refactor to use PostgreSQL to store page data
